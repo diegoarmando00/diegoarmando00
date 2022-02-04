@@ -1,3 +1,6 @@
+![Capturey](https://user-images.githubusercontent.com/82081070/152468320-573ca8d4-1f88-4903-8f27-f32cabe701be.PNG)
+ 
+
 <h1 align="center">Hi 👋, I'm Diego Armando Ortega Segura</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
