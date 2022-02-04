@@ -1,4 +1,4 @@
-![Capturey](https://user-images.githubusercontent.com/82081070/152468320-573ca8d4-1f88-4903-8f27-f32cabe701be.PNG)
+![0](https://user-images.githubusercontent.com/82081070/152480190-2751662e-a844-4b38-bdbb-e7f7915be61a.PNG)
  
 
 <h1 align="center">Hi 👋, I'm Diego Armando Ortega Segura</h1>
